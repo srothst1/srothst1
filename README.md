@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I’m currently a software developer working on emerging technologies at [Cesium](https://github.com/CesiumGS).
+- 🔭 I’m currently a software developer working on emerging technologies at [Cesium](https://github.com/CesiumGS)
 - 👯 I’m looking to collaborate on [california-aqi-visualization](https://github.com/srothst1/california-aqi-visualization). Help me visualaize Air Quality Index and forest fire data 🌎 ☁️ 🔥
 - 💬 [Ask me about CesiumJS!](https://community.cesium.com/c/cesiumjs/5)
 - 📫 How to reach me:
