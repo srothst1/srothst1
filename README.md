@@ -10,6 +10,7 @@
   - [A quick guide to surf spots in the Bay Area 🏄‍♂️](https://cesium.com/ion/stories/viewer/?id=188a3346-d7b8-42bf-91a2-ce06ed939d00)
   - [My presentation at the Cartographic Visualization BoF (SIGGRAPH 2021) 🤖](https://www.youtube.com/watch?v=CJcHQm1WEpY)
   - [CesiumJS 4D For Operations ✈️](https://youtu.be/0NcUGMiG7ls)
+  - [My Presentation at the Swiss Geology Conference 2021](https://youtu.be/920KxYDLdr4)
   - [Breathe Easy AQI Forecaster 📱😷](https://play.google.com/store/apps/details?id=software995.breath_easy&hl=en_US&gl=US)
   - [Quantifying sign-language movement kinematics from video (CG at UPenn) 🖱️](https://www.youtube.com/watch?v=-JAULYo83Vw)
   - [Sparsity and Compressed Coding in Sensory Systems Summer Research Presentation 📸](https://www.youtube.com/watch?v=d28SsU_s6eY)
