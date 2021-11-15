@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   - Twitter: [@srothst1](https://twitter.com/srothst1) 
   - LinkedIn: [https://www.linkedin.com/in/srothst1/](https://www.linkedin.com/in/srothst1/)
-  - Email: Ask me on Twitter or LinkedIn 👍
+  - Email or Phone #: Ask me on Twitter or LinkedIn 👍
 - 🔨 A few fun projects and presentations: 
   - [A quick guide to surf spots in the Bay Area 🏄‍♂️](https://cesium.com/ion/stories/viewer/?id=188a3346-d7b8-42bf-91a2-ce06ed939d00)
   - [My presentation at the Cartographic Visualization BoF (SIGGRAPH 2021) 🤖](https://www.youtube.com/watch?v=CJcHQm1WEpY)
