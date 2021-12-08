@@ -14,6 +14,6 @@
   - [Breathe Easy AQI Forecaster 📱😷](https://play.google.com/store/apps/details?id=software995.breath_easy&hl=en_US&gl=US)
   - [A tutorial for getting started with CesiumJS and Webpack](https://cesium.com/ion/stories/viewer/?id=188a3346-d7b8-42bf-91a2-ce06ed939d00)
   - [Quantifying sign-language movement kinematics from video (CG at UPenn) 🖱️](https://www.youtube.com/watch?v=-JAULYo83Vw)
-  - [Sparsity and Compressed Coding in Sensory Systems Summer Research Presentation 📸](https://www.youtube.com/watch?v=d28SsU_s6eY)
+  - [Sparsity and Compressed Coding in Sensory Systems Research Presentation 📸](https://www.youtube.com/watch?v=d28SsU_s6eY) and [publication](https://www.siam.org/publications/journals/siam-journal-on-applied-dynamical-systems-siads)
   - [The Camhy Gallery 🎨](https://www.youtube.com/watch?v=-F7nwTo7On8)
 - 😄 Pronouns: he/him/his
