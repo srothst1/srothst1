@@ -17,4 +17,5 @@
   - [Sparsity and Compressed Coding in Sensory Systems Research Presentation 📸](https://www.youtube.com/watch?v=d28SsU_s6eY) and [publication](https://www.siam.org/publications/journals/siam-journal-on-applied-dynamical-systems-siads)
   - [3DStreet](https://www.3d.st/)
   - [The Camhy Gallery 🎨](https://www.youtube.com/watch?v=-F7nwTo7On8)
+  - [srothst1 glitch](https://glitch.com/@srothst1)
 - 😄 Pronouns: he/him/his
