@@ -1,7 +1,7 @@
 ### Howdy 👋
 - My name is Sam. I’m currently a software developer at [Cesium](https://github.com/CesiumGS) 🔭 
 - Here is some cool stuff that I have worked on:
-    - [3DStreet 🏙️ 🚲 🛴](https://www.3d.st/)
+    - [3DStreet 🏙️ 🚲 🛴](https://www.3dstreet.org)
     - [Quantifying sign-language movement kinematics from video (CG at UPenn) 🖱️](https://www.youtube.com/watch?v=-JAULYo83Vw)
     - [A quick guide to surf spots in the Bay Area 🏄‍ 😄](https://cesium.com/ion/stories/viewer/?id=188a3346-d7b8-42bf-91a2-ce06ed939d00)
     - [california-aqi-visualization](https://github.com/srothst1/california-aqi-visualization). Help me visualaize Air Quality Index and forest fire data 🌎 ☁️ 🔥
