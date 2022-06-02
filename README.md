@@ -1,5 +1,5 @@
 ### Howdy 👋
-- My name is Sam. I’m currently a software developer at [Cesium](https://github.com/CesiumGS) 🔭 
+- My name is Sam 🔭 
 - Here is some cool stuff that I have worked on:
     - [3DStreet 🏙️ 🚲 🛴](https://www.3dstreet.org)
     - [Quantifying sign-language movement kinematics from video (CG at UPenn) 🖱️](https://www.youtube.com/watch?v=-JAULYo83Vw)
