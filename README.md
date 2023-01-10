@@ -1,7 +1,14 @@
 ### Howdy 👋
 - My name is Sam 🔭 
 - Here is some cool stuff that I have worked on:
+    - Data magic at [Orbit Metrics](https://www.orbitmetrics.io/)
+    - Mapping + 3D rendering for AV use cases such as [Predicting the future in real time for safer autonomous driving](https://motional.com/news/technically-speaking-predicting-future-real-time-safer-autonomous-driving)
+    - [Live Coding](https://github.com/srothst1/srothst1-LiMut)
+      - https://www.youtube.com/watch?v=bK6UHyMi5Bw
+      - https://www.youtube.com/watch?v=ZDeNKU_XgX4
+      - https://www.youtube.com/watch?v=ZDeNKU_XgX4
     - [3DStreet 🏙️ 🚲 🛴](https://www.3dstreet.org)
+      - [Loud Bicycle Game](https://3dstreet.github.io/loud-bicycle-game/)
     - [Quantifying sign-language movement kinematics from video (CG at UPenn) 🖱️](https://www.youtube.com/watch?v=-JAULYo83Vw)
     - [A quick guide to surf spots in the Bay Area 🏄‍ 😄](https://cesium.com/ion/stories/viewer/?id=188a3346-d7b8-42bf-91a2-ce06ed939d00)
     - [california-aqi-visualization](https://github.com/srothst1/california-aqi-visualization). Help me visualaize Air Quality Index and forest fire data 🌎 ☁️ 🔥
